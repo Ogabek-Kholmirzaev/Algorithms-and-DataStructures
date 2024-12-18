@@ -8,7 +8,7 @@ public static class BinarySearch
     /// <param name="arr">The sorted array in which to search for the item.</param>
     /// <param name="item">The item to search for in the array.</param>
     /// <returns>The index of the item if found; otherwise, null.</returns>
-    public static int? BinarySerach(int[] arr, int item)
+    public static int? Search(int[] arr, int item)
     {
         int low = 0, high = arr.Length - 1;
 
