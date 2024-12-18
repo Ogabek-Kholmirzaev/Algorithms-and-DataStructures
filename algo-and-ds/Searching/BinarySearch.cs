@@ -1,4 +1,4 @@
-﻿namespace algo_and_ds.BinarySearch;
+﻿namespace algo_and_ds.Searching;
 
 public static class BinarySearch
 {
